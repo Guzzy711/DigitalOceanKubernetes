@@ -31,7 +31,7 @@ doctl account get
     OUTPUT: 
 
 Email                 Droplet Limit    Email Verified    UUID                                    Status
-<email    10               true              <UUID>    active
+<email                   10               true              <UUID>                               active
 ```
 
 
